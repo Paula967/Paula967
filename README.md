@@ -6,10 +6,16 @@
 
 
 - Software Quality Control Engineer 
-
+- ISTQB Foundation Level
+- Manual Testing
+- API Testing
+- Automation Testing
 
 
 ##### Have an Experience in: 
+![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&link=http://right&logoColor=ffffff)
+![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-00AA01?style=for-the-badge&logo=selenium&link=http://right&logoColor=ffffff)
 
 
