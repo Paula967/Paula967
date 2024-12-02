@@ -1,6 +1,6 @@
 ### Welcome, my name is Paula Farid 
 
-[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](www.linkedin.com/in/paula-farid-534089225)
+[![Linkedin](https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&link=http://right)](www.linkedin.com/in/paula-farid-534089225/)
 [![Gmail](https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&link=http://right&logoColor=ffffff)](mailto:paula.farid9@gmail.com)
 
 
