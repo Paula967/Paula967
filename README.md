@@ -13,6 +13,7 @@
 
 
 ##### Have an Experience in: 
+![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&link=http://right&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&link=http://right&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
