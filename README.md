@@ -13,6 +13,7 @@
 
 
 ##### Have an Experience in: 
+![Google Sheet](https://img.shields.io/badge/googlesheet-0052CC?style=for-the-badge&logo=googlesheet&link=http://right&logoColor=ffffff)
 ![Trello](https://img.shields.io/badge/trello-0052CC?style=for-the-badge&logo=trello&link=http://right&logoColor=ffffff)
 ![Jira](https://img.shields.io/badge/jira-0052CC?style=for-the-badge&logo=jira&link=http://right&logoColor=ffffff)
 ![Postman](https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&link=http://right&logoColor=ffffff)
